@@ -1,0 +1,3 @@
+/mnt/c/Users/Lucas/Documents/1_OUTROS/UFJF/2024.2/ED2/tutorial_cmake/build/CMakeFiles/hello.dir
+/mnt/c/Users/Lucas/Documents/1_OUTROS/UFJF/2024.2/ED2/tutorial_cmake/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Lucas/Documents/1_OUTROS/UFJF/2024.2/ED2/tutorial_cmake/build/CMakeFiles/rebuild_cache.dir

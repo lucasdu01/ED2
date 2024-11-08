@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.18)
+project(Hello LANGUAGES CXX)
+
+# Adicionar arquivos fonte (exemplo de um diretório "src")
+file(GLOB SOURCES "src/*.cpp")
+
+# Criar o executável
+add_executable(hello hello.cpp)
